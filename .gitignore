@@ -138,6 +138,7 @@
 /etc/zsh_command_not_found
 /etc/.*
 
+!/home/isucon/private_isu/
 !/home/
 /home/*
 !/home/isucon/
@@ -156,3 +157,5 @@
 # vim関連
 *~
 *.sw[op]
+
+
